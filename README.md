@@ -25,6 +25,7 @@ You will need to create a "lib" folder and copy dse-4.7.3.jar into it.  If you u
 
 
 ** if you don't have Maven
+
 1. download Maven: https://maven.apache.org/download.cgi
 
 2. add to path
