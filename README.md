@@ -13,8 +13,15 @@ You will need to create a "lib" folder and copy dse-4.7.3.jar into it.  If you u
 
 
 
-1. compile project
+1. compile project**
 > mvn package
 
 2. run program
 > dse spark-submit --class simpleSpark.BasicSparkSQL ./target/BasicSparkDemo-0.1.jar
+
+
+** if you don't have Maven
+1. download Maven: https://maven.apache.org/download.cgi
+
+2. add to path
+> export PATH=[dir]/apache-maven-3.3.3/bin:$PATH
