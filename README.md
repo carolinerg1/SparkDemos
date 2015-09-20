@@ -3,6 +3,10 @@ DataStax Cassandra Java Spark Examples
 
 WORK IN PROGRESS
 
+<b>Basic Spark Demo</b>
+
+1st demo is a simple SparkSQL script
+
 This creates a Cassandra table, inserts a few lines of data, and uses SparkSQL to return the average length of songs per song category
 
 It uses dse spark-submit to run the script
