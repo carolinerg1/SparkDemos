@@ -3,7 +3,7 @@ DataStax Cassandra Java Spark Examples
 
 WORK IN PROGRESS
 
-<b>Basic Spark Demo</b>
+<b>Basic SparkSQL Demo</b>
 
 1st demo is a simple SparkSQL script
 
